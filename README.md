@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebynBen
+- 👋 Hi, I’m @Careefree
 - 👀 I’m interested in trading and trading algoritims
 - 🌱 I’m currently learning how to code python
 
